@@ -1,6 +1,3 @@
-# usage
-### Please add the following code
-'''
 module "app"  {
   source    = "./module"
   namespace = "default"
@@ -18,5 +15,4 @@ image:
   ]
 }
 
-'''
 
